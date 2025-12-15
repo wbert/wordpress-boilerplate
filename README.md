@@ -1,4 +1,4 @@
-# wbert-wordpress-boilerplate
+# Self-hosted WordPress Boilerplate
 
 A lightweight, Dockerized WordPress boilerplate configuration designed for quick local development or deployment. This setup includes pre-configured PHP settings for increased upload limits and memory, running on the latest WordPress image and MySQL 8.0.
 
@@ -103,3 +103,5 @@ docker-compose down
 ```bash
 docker-compose logs -f
 ```
+
+**you may add .env file as you wish**
